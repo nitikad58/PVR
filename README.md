@@ -37,6 +37,6 @@ Read More Button
 -Add animations for carousel transitions.
 -Make the layout themeable for different industries.
 
-## ✨ Demo Screenshot
+## ✨ Preview
 ![quantiy-1, hidden-text](https://github.com/nitikad58/PVR/blob/master/PVR-snapshot1.png)
 ![quantity-2, expanded-text](https://github.com/nitikad58/PVR/blob/master/PVR-Snapshot2.png)
