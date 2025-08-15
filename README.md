@@ -1,4 +1,4 @@
-# Product Showcase Page — Steel Tubes Example
+# PVR Product showcase Sample ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 A responsive **HTML, CSS, Bootstrap, and jQuery**-based product showcase template.  
 It features an interactive image carousel, quantity selector, and expandable product descriptions — ideal for eCommerce or industrial product listings.
@@ -38,5 +38,5 @@ Read More Button
 -Make the layout themeable for different industries.
 
 ## ✨ Demo Screenshot
-[quantiy-1, hidden-text](https://github.com/nitikad58/PVR/blob/master/PVR-snapshot1.png)
-[quantity-2, expanded-text](https://github.com/nitikad58/PVR/blob/master/PVR-Snapshot2.png)
+![quantiy-1, hidden-text](https://github.com/nitikad58/PVR/blob/master/PVR-snapshot1.png)
+![quantity-2, expanded-text](https://github.com/nitikad58/PVR/blob/master/PVR-Snapshot2.png)
